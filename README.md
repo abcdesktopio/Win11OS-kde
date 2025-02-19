@@ -1,5 +1,10 @@
 ## Win11OS KDE Theme
 
+## Source
+https://github.com/yeyushengfan258/Win11OS-kde
+
+## Win11OS
+
 Win11OS kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
