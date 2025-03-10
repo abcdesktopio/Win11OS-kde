@@ -82,15 +82,6 @@ Image {
                 easing.type: Easing.InOutBack
                 easing.overshoot: 1.0
             }
-
-            PropertyAnimation {
-                property: "y"
-                target: bottomRect
-                to: 2 * (root.height / 3) - bottomRect.height
-                duration: 1000
-                easing.type: Easing.InOutBack
-                easing.overshoot: 1.0
-            }
         }
     }
 }
