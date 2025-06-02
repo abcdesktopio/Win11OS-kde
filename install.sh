@@ -22,6 +22,8 @@ else
   WALLPAPER_DIR="$HOME/.local/share/wallpapers"
 fi
 
+echo "PLASMA_DIR=$PLASMA_DIR"
+
 THEME_NAME=Win11OS
 
 [[ ! -d ${AURORAE_DIR} ]] && mkdir -p ${AURORAE_DIR}
